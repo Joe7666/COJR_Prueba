@@ -53,7 +53,7 @@ namespace COJR_Prueba
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(343, 20);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Lista de Celulares que tienen el precio impar";
+            this.label1.Text = "Lista de Celulares que tienen el precio pares";
             // 
             // dgvImpar
             // 

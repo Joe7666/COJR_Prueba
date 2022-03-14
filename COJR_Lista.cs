@@ -35,7 +35,7 @@ namespace COJR_Prueba
             List<COJR_Celular> aux = new List<COJR_Celular>();
             foreach(COJR_Celular cOJR_Celular in Celulares)
             {
-                if(cOJR_Celular.Precio%2!=0)
+                if(cOJR_Celular.Precio%2==0)
                 {
                     aux.Add(cOJR_Celular);
                 }
